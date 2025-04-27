@@ -4,6 +4,30 @@
   
     
     <entry>
+      <title><![CDATA[How to Stop MacBook Air M2 from Not Waking After Sleep]]></title>
+      <url>https://ftime.github.io/2025/04/27/20250427FixMacbookM2sleep/</url>
+      <content type="html"><![CDATA[<p>我的MacBook Air M2 偶尔会出现无法从睡眠中唤醒的情况，键盘灯亮着，但屏幕却是黑的，甚至还能通过 Fn 键控制音乐播放，不过调节屏幕亮度的按钮违常。我也试过网上常见的各种方法，比如调整睡眠时间、锁屏时间、重置等，但都没有解决问题。唯一有效的办法，就是长按电源键强制重启。</p>
+<p>MacBook Air M2 occasionally fails to wake up from sleep. The keyboard backlight turns on, but the screen remains black. I can even control music playback through the Fn key, but the brightness adjustment buttons don’t work. I’ve tried various common solutions found online, like adjusting sleep time, lock screen time, and resetting system settings, but none of them worked. The only effective method is to force restart by holding down the power button.</p>
+<p>最令人失望的，是这种症状似乎是随机出现的。在查找解决方案的过程中，一些资料给了我启发，我也做了些实验，终于摸索出了我的 MacBook 黑屏故障的规律。</p>
+<p>The most frustrating part is that the issue seems to happen randomly. While searching for solutions, some resources gave me inspiration, and after conducting a few experiments, I finally figured out the patterns behind my MacBook black screen problem.</p>
+<ol>
+<li><p>在 MacBook 刚进入睡眠后 1 秒内尝试唤醒，很容易出现黑屏。就像它刚闭上眼准备睡觉，却立刻被叫醒，结果是脑子醒了，眼睐却眼得开。</p>
+</li>
+<li><p>If you try to wake the MacBook within one second after it enters sleep mode, it’s very likely to cause a black screen. It’s like the device just closed its eyes to sleep but is immediately called back, waking its brain but not its eyes.</p>
+</li>
+<li><p>我外接了罗技 K380 键盘和微软 Sculpt 人体工学鼠标。MacBook 合上盖子后会自动进入睡眠状态，这时如果不小心触动了外接鼠标或键盘，打开盖子后就很可能黑屏。也就是说，MacBook 睡眠期间，外接设备发出信号，就可能导致唤醒失败。</p>
+</li>
+<li><p>I connected a Logitech K380 keyboard and a Microsoft Sculpt Ergonomic Mouse. After closing the MacBook lid, it automatically enters sleep mode. If the external mouse or keyboard is accidentally triggered during sleep, reopening the lid often results in a black screen. In other words, if an external device sends a signal during MacBook’s sleep, it may cause the wake-up process to fail.</p>
+</li>
+</ol>
+<p>所以，我的解决办法也很简单，就是尽量避免上述两种情况。比如，关电脑前，先关闭蓝牙设备，然后合上盖子；打开电脑时，先打开盖子，等系统完全唤醒后，再打开蓝牙设备。另外，如果电脑已经进入睡眠，就等它几秒，等它完全睡着，再用自带键盘唤醒，不要太急。</p>
+<p>So, my solution is simple: avoid the two scenarios above. For example, before shutting down, turn off Bluetooth devices first, then close the lid. When turning the laptop back on, open the lid first, wait until the system wakes up fully, and then turn on Bluetooth devices. Additionally, if the laptop has already entered sleep mode, wait a few seconds to let it completely sleep before trying to wake it with the built-in keyboard. Don’t rush.</p>
+<p>唯一我没有尝试的，是更新系统，我的Mac系统是12.7.6，我并不想升级。而且根据网上的反应，即使是最新系统，也同样存在相似的问题。</p>
+<p>The only thing I haven’t tried is updating the system, my Mac system version is 12.7.6, I prefer not to upgrade. Besides, according to online feedback, even the latest system version still has similar issues.</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[筷子的致命一击]]></title>
       <url>https://ftime.github.io/2025/03/22/20250322%E7%AD%B7%E5%AD%90%E7%9A%84%E8%87%B4%E5%91%BD%E4%B8%80%E5%87%BB/</url>
       <content type="html"><![CDATA[<p>上幼儿园时，叨叨用叉子和训练筷吃饭。也给他用过普通的筷子，但他试了几次没学会，就放弃了。现在上了小学，食堂只有筷子和勺子，学会用筷，迫在眉睫。</p>
