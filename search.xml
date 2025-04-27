@@ -6,8 +6,8 @@
     <entry>
       <title><![CDATA[How to Stop MacBook Air M2 from Not Waking After Sleep]]></title>
       <url>https://ftime.github.io/2025/04/27/20250427FixMacbookM2sleep/</url>
-      <content type="html"><![CDATA[<p>我的MacBook Air M2 偶尔会出现无法从睡眠中唤醒的情况，键盘灯亮着，但屏幕却是黑的，甚至还能通过 Fn 键控制音乐播放，不过调节屏幕亮度的按钮违常。我也试过网上常见的各种方法，比如调整睡眠时间、锁屏时间、重置等，但都没有解决问题。唯一有效的办法，就是长按电源键强制重启。</p>
-<p>MacBook Air M2 occasionally fails to wake up from sleep. The keyboard backlight turns on, but the screen remains black. I can even control music playback through the Fn key, but the brightness adjustment buttons don’t work. I’ve tried various common solutions found online, like adjusting sleep time, lock screen time, and resetting system settings, but none of them worked. The only effective method is to force restart by holding down the power button.</p>
+      <content type="html"><![CDATA[<p>我的MacBook Air M2 偶尔会出现无法从睡眠中唤醒的情况，键盘灯亮着，但屏幕却是黑的，甚至还能通过 Fn 键控制音乐播放。我也试过网上常见的各种方法，比如调整睡眠时间、锁屏时间、重置等，但都没有解决问题。唯一有效的办法，就是长按电源键强制重启。</p>
+<p>MacBook Air M2 occasionally fails to wake up from sleep. The keyboard backlight turns on, but the screen remains black. I can even control music playback through the Fn key. I’ve tried various common solutions found online, like adjusting sleep time, lock screen time, and resetting system settings, but none of them worked. The only effective method is to force restart by holding down the power button.</p>
 <p>最令人失望的，是这种症状似乎是随机出现的。在查找解决方案的过程中，一些资料给了我启发，我也做了些实验，终于摸索出了我的 MacBook 黑屏故障的规律。</p>
 <p>The most frustrating part is that the issue seems to happen randomly. While searching for solutions, some resources gave me inspiration, and after conducting a few experiments, I finally figured out the patterns behind my MacBook black screen problem.</p>
 <p>1.在 MacBook 刚进入睡眠后 1 秒内尝试唤醒，很容易出现黑屏。就像它刚闭上眼准备睡觉，却立刻被叫醒，结果是脑子醒了，眼睛却睁不开。</p>
